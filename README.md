@@ -4,9 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif
 ">
 
-<p align="left"> <img src="https://gifdb.com/790a0bs8e8thpisg.gif
-" /> </p
-
 - 🔭 I made this Project [Eatify.](humayun-food.netlify.app)
 
 - 🌱 I’m currently learning **Node.js**
