@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 🔭 I made this for showcase my skills [Portfolio](humayun1-portfolio.netlify.app)
+- 🔭 I made this for showcase my skills [Portfolio]( https://humayun-01.github.io/Portfolio/)
 
-- 👨‍💻 All of my projects are available at [humayun1-portfolio.netlify.app](humayun1-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [humayun1-portfolio.netlify.app]( https://humayun-01.github.io/Portfolio/)
 
 - 💬 Ask me about **React.js,Tailwind CSS**
 
