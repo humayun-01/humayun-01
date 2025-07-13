@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif
 ">
 
-- 🔭 I made this Project [Eatify.](humayun-food.netlify.app)
+- 🔭 I made this Project [Eatify.](https://humayun-01.github.io/Eatify./)
 
 - 🌱 I’m currently learning **Node.js**
 
