@@ -6,8 +6,6 @@
 
 - 🔭 I made this Project [Eatify.](https://humayun-01.github.io/Eatify./)
 
-- 🌱 I’m currently learning **Node.js**
-
 - 🔭 I made this for showcase my skills [Portfolio]( https://humayun-01.github.io/Portfolio/)
 
 - 👨‍💻 All of my projects are available at [humayun1-portfolio.netlify.app]( https://humayun-01.github.io/Portfolio/)
